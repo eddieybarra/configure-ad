@@ -57,4 +57,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![image](https://github.com/eddieybarra/configure-ad/assets/18490891/6b1ef2e8-918e-4794-9936-35d850937bd7)
 
+![image](https://github.com/eddieybarra/configure-ad/assets/18490891/9390ee1f-1c44-453d-8c94-95b8390c1842)
 
