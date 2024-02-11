@@ -67,4 +67,8 @@ forest
 create OU
 ![image](https://github.com/eddieybarra/configure-ad/assets/18490891/0e44b771-9c22-4d99-8f92-d4cc8656fceb)
 ![image](https://github.com/eddieybarra/configure-ad/assets/18490891/d87fa833-4231-4356-a1d8-9471f2cde950)
+create user
+![image](https://github.com/eddieybarra/configure-ad/assets/18490891/3a522a5e-4616-43f6-905d-50b78a6d1835)
+security group
+![image](https://github.com/eddieybarra/configure-ad/assets/18490891/19feb10b-5105-4fbc-9b6b-af26a653135a)
 
