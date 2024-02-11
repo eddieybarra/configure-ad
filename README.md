@@ -64,4 +64,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/eddieybarra/configure-ad/assets/18490891/d8aa992f-7cb9-4e1f-b3c1-d48629cba920)
 forest
 ![image](https://github.com/eddieybarra/configure-ad/assets/18490891/87d25f86-9f50-41ef-b6cb-fde549807af2)
+create OU
+![image](https://github.com/eddieybarra/configure-ad/assets/18490891/0e44b771-9c22-4d99-8f92-d4cc8656fceb)
 
